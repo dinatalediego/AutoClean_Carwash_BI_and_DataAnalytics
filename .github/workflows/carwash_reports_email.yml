@@ -46,7 +46,7 @@ jobs:
           username: ${{ secrets.GMAIL_USER }}
           password: ${{ secrets.GMAIL_APP_PASSWORD }}
           subject: "CarWash – Reportes automáticos (run ${{ github.run_number }})"
-          to: "tuusuario@gmail.com"
+          to: "ddinatale.r@gmail.com"
           from: "CarWash Bot <${{ secrets.GMAIL_USER }}>"
           body: ${{ steps.email_body.outputs.body }}
           attachments: |
