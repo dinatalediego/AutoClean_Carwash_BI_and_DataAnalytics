@@ -1,0 +1,20 @@
+Script verbal – Cierre de presentación (Car Wash, microeconomía + econometría)
+
+1) Equilibrio de demanda (sin intervención):
+   - La demanda diaria se estabiliza alrededor de S/ 251 con una desviación de S/ 117.
+   - El mínimo observado fue S/ 127 y el máximo S/ 575.
+   - Los picos de demanda se concentran en los días: 02-Aug, 09-Aug, 12-Aug, 20-Aug, 24-Aug, 25-Aug, 29-Aug, 30-Aug.
+   - Los valles de demanda aparecen en: 01-Aug, 03-Aug, 04-Aug, 07-Aug, 10-Aug, 15-Aug, 17-Aug, 19-Aug, 27-Aug, 28-Aug.
+   - Interpretación microeconómica: el sistema se encuentra en un equilibrio empírico 'de hecho', no necesariamente óptimo.
+   - La presencia de picos y valles muestra que la disposición a pagar y el uso del servicio varían entre días.
+   - Los picos suelen concentrarse donde la utilidad marginal del lavado es alta (clima, fin de semana, acumulación de suciedad).
+   - Los valles representan días donde la utilidad marginal es baja y solo una política de precios/promos puede elevar la demanda.
+
+2) Elasticidad precio-demanda:
+   - La elasticidad precio-demanda estimada es de aproximadamente 0.00.
+   - La elasticidad estimada es inusual (cercana a cero o positiva); puede indicar problemas de datos o segmentación.
+
+3) Cierre propositivo:
+   - "Sin hacer nada, el negocio se queda estable en este equilibrio;"
+   - "con intervención inteligente, podemos elevar los valles, proteger los picos y mover el ticket promedio."
+   - "Mi propuesta es empezar con un sprint de corto plazo para demostrar este impacto y, si lo ven, construir juntos el modelo de largo plazo."

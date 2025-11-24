@@ -1,0 +1,24 @@
+Estimado Equipo,
+
+A partir del análisis realizado, hoy sabemos que:
+
+- La demanda del Car Wash, sin intervención, se estabiliza alrededor de un nivel de equilibrio diario.
+- Existen picos muy claros de alta utilización y valles donde el potencial del negocio no se está capturando.
+- La elasticidad precio-demanda y el comportamiento de los clientes recurrentes nos dan espacio real para mejorar ticket promedio, recurrencia y utilización de la capacidad.
+
+Mi propuesta es trabajar en dos etapas:
+
+1) Un sprint de corto plazo (4–5 semanas) para:
+   - Afinar el modelo de forecast y elasticidad,
+   - Diseñar e implementar una primera batería de intervenciones en precios y promociones,
+   - Medir el impacto en ticket y en llenado de días valle.
+
+2) Si el impacto es claro y medible, pasar a un esquema mensual de Inteligencia Comercial continua,
+   donde tengamos modelado en forma permanente el equilibrio, el pricing y la recurrencia de clientes.
+
+Quedo atento para coordinar una reunión breve y revisar juntos los resultados y próximos pasos.
+
+Saludos,
+
+[Tu nombre]
+[Tu rol]
