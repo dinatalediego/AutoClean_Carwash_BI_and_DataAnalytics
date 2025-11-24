@@ -1,0 +1,7 @@
+,ticket,repeat,recommender,forecast,pricing
+ticket_promedio_estimado,29.029292929292932,,,,
+probabilidad_media_recurrencia,,0.1912568306010929,,,
+estrategia_recomendacion,,,placeholder: siempre PREMIUM,,
+ingresos_diarios_esperados,,,,251.03225806451613,
+horizonte_dias,,,,30.0,
+elasticidad_precio,,,,,-1.2
